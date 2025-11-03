@@ -15,4 +15,5 @@ including [HoloIRC](https://github.com/Lalitmaganti/HoloIRC).
 ## Recent blog posts
 
 <!-- blog_posts start -->
+
 <!-- blog_posts end -->
