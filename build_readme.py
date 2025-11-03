@@ -9,7 +9,7 @@ import pathlib
 import re
 
 root = pathlib.Path(__file__).parent.resolve()
-BLOG_FEED_URL = "https://lalitm.com/posts/index.xml"
+BLOG_FEED_URL = "https://lalitm.com/index.xml"
 
 
 def replace_chunk(content, marker, chunk, inline=False):
