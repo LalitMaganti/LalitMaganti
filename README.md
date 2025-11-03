@@ -1,9 +1,5 @@
 Senior Staff Software Engineer at Google, working on [Perfetto](https://perfetto.dev) — an open source suite of tools for performance tracing and analysis.
 
-I joined Perfetto as a founding engineer in 2017. My focus is on trace analysis tools, particularly the PerfettoSQL language and query engine. 
-erfetto is the default tracing system for Android and Chrome, and is used by companies like Meta and Microsoft, as well as open source projects like QEMU,
-Mesa, and the Linux kernel.
-
 I'm passionate about performance and open-source and especially the intersection
 of those two domains. I'm also generally interested in AI/LLMs and how they are
 changing the software engineering industry.
@@ -19,5 +15,4 @@ including [HoloIRC](https://github.com/Lalitmaganti/HoloIRC).
 ## Recent blog posts
 
 <!-- blog_posts start -->
-
 <!-- blog_posts end -->
