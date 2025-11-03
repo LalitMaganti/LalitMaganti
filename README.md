@@ -12,7 +12,7 @@ including [HoloIRC](https://github.com/Lalitmaganti/HoloIRC).
 ## Recent blog posts
 
 <!-- blog_posts start -->
-- [Archive](https://lalitm.com/page/archive/)
+- [TIL: Diátaxis: Systematic technical documentation](https://lalitm.com/til-diataxis-systematic-technical-documentation/)
 - [Perfetto: Swiss Army Knife for Linux Client Tracing](https://lalitm.com/perfetto-swiss-army-knife/)
 - [TIL: Public File Hosting with 0x0.st](https://lalitm.com/til-public-file-hosting-with-0x0-st/)
 - [TIL: `will-change` and `isolation` CSS properties](https://lalitm.com/til-will-change-and-isolation-css-properties/)
