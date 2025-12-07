@@ -12,9 +12,9 @@ changing the software engineering industry.
 ## Recent blog posts
 
 <!-- blog_posts start -->
+- [Homepage Redesign, Light Mode and More](https://lalitm.com/post/homepage-redesign-light-mode-and-more/)
 - [Why I Ignore The Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
 - [We stopped roadmap work for a week and fixed 189 bugs](https://lalitm.com/fixits-are-good-for-the-soul/)
 - [TIL: Number in man page titles (e.g. sleep(3))](https://lalitm.com/til-number-in-man-page-titles-e-g-sleep-3/)
 - [When Good Technical Writing Isn't Enough](https://lalitm.com/on-why-i-write-this-blog/)
-- [CAST(x AS STRING) casts to integer in SQLite](https://lalitm.com/cast-x-as-string-casts-to-integer-in-sqlite/)
 <!-- blog_posts end -->
