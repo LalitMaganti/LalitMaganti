@@ -7,7 +7,7 @@ I'm passionate about performance, open-source, and especially the intersection
 of the two. I'm also generally interested in AI/LLMs and how they are
 changing the software engineering industry.
 
-**Find me at:** [My blog: lalitm.com](https://lalitm.com), [Newsletter](https://lalitm.substack.com/), [Bluesky](https://bsky.app/profile/lalitm.com)
+**Find me at:** [My blog: lalitm.com](https://lalitm.com), [Newsletter](https://lalitm.substack.com/), [Bluesky](https://bsky.app/profile/lalitm.com), [Mastadon](https://fedi.lalitm.com/@lalitm)
 
 ## Recent blog posts
 
