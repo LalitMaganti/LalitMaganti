@@ -12,9 +12,9 @@ changing the software engineering industry.
 ## Recent blog posts
 
 <!-- blog_posts start -->
+- [Rendering 100k trace events faster with exponential search](https://lalitm.com/post/exponential-search/)
 - [The surprising attention on sprites, exe.dev, and shellbox](https://lalitm.com/trying-sprites-exedev-shellbox/)
 - [Why Senior Engineers Let Bad Projects Fail](https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/)
 - [One Number I Trust: Plain-Text Accounting for a Multi-Currency Household](https://lalitm.com/post/one-number-i-trust/)
 - [Homepage Redesign, Light Mode and More](https://lalitm.com/post/homepage-redesign-light-mode-and-more/)
-- [Why I Ignore The Spotlight as a Staff Engineer](https://lalitm.com/software-engineering-outside-the-spotlight/)
 <!-- blog_posts end -->
