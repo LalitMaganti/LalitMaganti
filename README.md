@@ -12,9 +12,9 @@ changing the software engineering industry.
 ## Recent blog posts
 
 <!-- blog_posts start -->
+- [Which country voted the best at Eurovision?](https://lalitm.com/post/which-country-voted-best-at-eurovision/)
 - [Don't answer the first question](https://lalitm.com/post/dont-answer-the-first-question/)
 - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
 - [syntaqlite: high-fidelity devtools that SQLite deserves](https://lalitm.com/post/syntaqlite/)
 - [Rendering 100k trace events faster with exponential search](https://lalitm.com/post/exponential-search/)
-- [The surprising attention on sprites, exe.dev, and shellbox](https://lalitm.com/trying-sprites-exedev-shellbox/)
 <!-- blog_posts end -->
