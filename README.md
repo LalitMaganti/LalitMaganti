@@ -12,7 +12,7 @@ changing the software engineering industry.
 ## Recent blog posts
 
 <!-- blog_posts start -->
-- [17 bugs in 10 weeks from AI security scanning](https://lalitm.com/post/perfetto-security-bugs-ai/)
+- [Security analysis is finally reaching software's long tail](https://lalitm.com/post/perfetto-security-bugs-ai/)
 - [Which country voted the best at Eurovision?](https://lalitm.com/post/which-country-voted-best-at-eurovision/)
 - [Don't answer the first question](https://lalitm.com/post/dont-answer-the-first-question/)
 - [Eight years of wanting, three months of building with AI](https://lalitm.com/post/building-syntaqlite-ai/)
