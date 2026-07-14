@@ -12,9 +12,9 @@ changing the software engineering industry.
 ## Recent blog posts
 
 <!-- blog_posts start -->
+- [The git history command deserves more attention](https://lalitm.com/post/git-history/)
 - [Perfetto v57: fixing PyTorch traces, plus journald logs and an AI skill](https://lalitm.com/post/perfetto-v57/)
 - [On "When impressive performance gains do not matter"](https://lalitm.com/post/on-when-impressive-performance/)
 - [syntaqlite 0.6: SQLite dot commands and pyodide](https://lalitm.com/post/syntaqlite-06/)
 - [TIL: Iroh: peer-to-peer networking for app developers](https://lalitm.com/post/til-iroh/)
-- [Security analysis is finally reaching software's long tail](https://lalitm.com/post/perfetto-security-bugs-ai/)
 <!-- blog_posts end -->
