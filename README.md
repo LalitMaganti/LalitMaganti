@@ -12,9 +12,9 @@ changing the software engineering industry.
 ## Recent blog posts
 
 <!-- blog_posts start -->
+- [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
 - [AI agents are not subsystem maintainers](https://lalitm.com/post/ai-subsystem-maintainer/)
 - [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/)
 - [What I'm Changing After A Year Of Blogging](https://lalitm.com/post/what-i-m-changing-after-a-year-of-blogging/)
 - [The git history command deserves more attention](https://lalitm.com/post/git-history/)
-- [Perfetto v57: fixing PyTorch traces, plus journald logs and an AI skill](https://lalitm.com/post/perfetto-v57/)
 <!-- blog_posts end -->
