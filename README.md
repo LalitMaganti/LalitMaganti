@@ -12,9 +12,9 @@ changing the software engineering industry.
 ## Recent blog posts
 
 <!-- blog_posts start -->
+- [Responsibility Is Taken Before It Is Given](https://lalitm.com/responsibility-is-taken-before-it-is-given/)
 - [Changing Devtools Is Cheap. Owning Them Isn’t.](https://lalitm.com/post/changing-devtools-is-cheap-owning-them-isnt/)
 - [GitHub has alternatives, but no replacement](https://lalitm.com/post/github-alternatives/)
 - [AI agents are not subsystem maintainers](https://lalitm.com/post/ai-subsystem-maintainer/)
 - [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/)
-- [What I'm Changing After A Year Of Blogging](https://lalitm.com/post/what-i-m-changing-after-a-year-of-blogging/)
 <!-- blog_posts end -->
